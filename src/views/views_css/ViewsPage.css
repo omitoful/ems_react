@@ -1,0 +1,11 @@
+.main-contianer {
+  height: 500px;
+  align-items: center;
+  justify-content: center;
+}
+
+.reservation-contianer {
+  width: 80%;
+  min-width: 700px;
+  margin-top: 50px;
+}
